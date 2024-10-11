@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+* {
+    background-color: #032152;
+    font-family: "Indie Flower", sans-serif;
+    color: #fff;
+}
+
+.conteiner {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice {
+    display: inline-block;
+    text-align: center;
+}
+
+h1 {
+    margin: 30px;
+    font-family: "lobster", sans-serif;
+    text-shadow: 4px 0 #232931;
+    font-size: 6rem;
+    color: #4ecca3;
+}
+
+h2 {
+    font-size: 2rem;
+    color: #4ecca3;
+}
+
+img {
+    width: 80%;
+}
+
+footer {
+    margin-top: 5%;
+    text-align: center;
+}
